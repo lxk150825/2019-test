@@ -1,8 +1,8 @@
 package test;
 
 public class Test1 {
-
-	public static void main(String[] arge) {
+//张三
+	public  static  void  main（String [] arge）{
 		Integer i = -128;
 		Integer j = -128;
 		System.out.println(i == j);
